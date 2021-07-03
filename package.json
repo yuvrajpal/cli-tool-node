@@ -1,0 +1,8 @@
+{
+  "name": "now-config",
+  "version": "1.0.0",
+  "description": "CLI project",
+  "main": "src/index.js",
+  "author": "Yuvraj",
+  "license": "ISC"
+}
